@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prathamesh610
-- 👀 I’m interested in Software Development, Flutter Development
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Backend Software Development
+- 🌱 I’m currently working as a Backend Software Developer in Java
 - 💞️ I’m looking to collaborate on ideas, projects
-- 📫 How to reach me prathameshj610@gmail.com
+- 📫 How to reach me hello@prathameshj.dev
 
 <!---
 prathamesh610/prathamesh610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
