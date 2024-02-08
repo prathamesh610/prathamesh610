@@ -2,6 +2,7 @@
 - 👀 I’m interested in Backend Software Development
 - 🌱 I’m currently working as a Backend Software Developer in Java
 - 💞️ I’m looking to collaborate on ideas, projects
+- 📝 My Resume can be found at: https://bit.ly/prathamesh-resume
 - 📫 How to reach me hello@prathameshj.dev
 
 <!---
