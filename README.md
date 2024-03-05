@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as a Backend Software Developer in Java
 - 💞️ I’m looking to collaborate on ideas, projects
 - 📝 My Resume can be found at: https://bit.ly/prathamesh-resume
-- 🔗 My website is prathameshj.dev
+- 🔗 My website is https://prathameshj.dev
 - 📫 How to reach me hello@prathameshj.dev
 
 <!---
